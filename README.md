@@ -1,2 +1,5 @@
-# Rajasri-FITA-Capstone-Project-1
+# Rajasri-FITA-Capstone-Projects
 Capstone Project 1 (Sales Analysis Project)
+Capstone Project 2 (Employee Analysis Project)
+Capstone Project 3 (RFM Analysis Project)
+Capstone Final Project  (Full Company Analysis Project)
