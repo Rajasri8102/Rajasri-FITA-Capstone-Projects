@@ -7,3 +7,5 @@ Capstone Final Project Objective: To analyze a company’s sales, customers, pro
 MySQL → Data creation & storage
 Python → Data cleaning, transformation & merging
 Power BI → KPI dashboards, visualization & insights
+Power BI Project 1 (State wise Constituency Seats in India Dashboard)
+Power BI Project 2 (Walmart Superstore Sales Analysis Dashboard)
